@@ -1,6 +1,59 @@
-kenapa ikan bernafas?
-agama apa yang tidak berTuhan?
-tikus berkaki 2a adalah? 
-oris multiversr
-bastian power ranger
-arsel ultramen
+<html>
+    <head>
+        <title>tugas 2</title>
+    </head>
+    <body>
+        <center><<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJTL_b5rHNKX9Fw30QF8g9BcSU5USS1D7MbA&usqp=CAU">
+        <h1 style="color: brown;">TUGAS 2 </h1>
+         Nama : Michael Bayu Ananda Adipusporaditya<br>
+        NIM : 215314077 
+    </center>
+        <p>
+         <p align="justify"> <i>perkenalkan nama saya michael bayu, biasa dipanggil bayu.</i> Saya berusia 20 tahun, saya berasal dari kota kediri.
+            Saya memiliki 4 saudara dan saya anak ke 3, sekarang saya kuliah di <b>universitas sanata dharma yogyakarta, di fakultas sains dan teknoogi jurusan
+            informatika</b>, dan saya angakatan 2021. selain itu saya memiliki hobi bermain game dan sepak bola 
+            saya menyukai club barcelaona tetapi saya kurang menyukai liga indonesia karena beberapa hal seperti 
+            masih banyak nya tindak kekerasan antar club dan sejenisnya. </p>
+        </p>
+        <h2>
+           <p align="right"> kehidupan di Yogyakarta</p>
+        </h2>
+        <p>
+            Banyak hal yang terjadi selama saya merantau di Yogyakarta untuk kuliah, merantau bukanlah 
+            hal yang mudah, jauh dari orang tua, dan mengatur keuangan sendiri. Tetapi dengan merantau
+            kita menjadi belajar banyak hal, bukan hanya belajar di kampus saja tetapi juga belajar apa itu makna 
+            hidup, mencari jati diri,<u> mengatasi segalanya sendiri dan tidak bergantung pada orang lain.</u>
+        </p>
+        <h3>Hobi saya :</h3>
+        <o1>
+            <li>bermain futsal</li>
+            <li>bermain game</li>
+            <li>catur</li>
+        </o1>
+        <p>Bisa mengunjungi sosial media melalui link berikut : </p>
+        <p>
+            <a href="https://www.instagram.com/mikaelllbayu_/?hl=id">instagram</a> <br>
+        </p>
+        <h4>
+            <p align="center"> kehidupan di Yogyakarta</p>
+        </h4>
+        <table border="1">
+            <tr>
+                <td>Nama :</td>
+                <td>Michael Bayu</td>
+            </tr>
+            <tr>
+                <td>tempat tanggal lahir :</td>
+                <td>Kediri, 22 april 2003</td>
+            </tr>
+            <tr>
+                <td>NIM :</td>
+                <td>215314077</td>
+            </tr>
+            <tr>
+                <td>Sekolah :</td>
+                <td>Universitas Sanata Dharma Yogyakarta</td>
+            </tr>
+        </table>
+    </body>
+</html>
